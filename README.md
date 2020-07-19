@@ -1,5 +1,11 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This is a React application that tracks the worldwide infections, deaths and recoveries. Allows user to view the cases country-wise too.
+Project is live on - [https://najq.github.io/covid-19tracker/](https://najq.github.io/covid-19tracker/)
+
+
+
+
 
 ## Available Scripts
 
@@ -62,6 +68,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# covid-19tracker
->>>>>>> b0cf482647639fcc60d4181304b0e09330687c02
