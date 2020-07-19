@@ -1,9 +1,10 @@
+
+### This is a React application that tracks the worldwide infections, deaths and recoveries. Allows user to view the cases country-wise too.
+### Project is live on - [https://najq.github.io/covid-19tracker/](https://najq.github.io/covid-19tracker/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-This is a React application that tracks the worldwide infections, deaths and recoveries. Allows user to view the cases country-wise too.
-Project is live on - [https://najq.github.io/covid-19tracker/](https://najq.github.io/covid-19tracker/)
-
-
+It uses [Mathdro API](https://covid19.mathdro.id/api)
+Inspired by [Adrian Hadjin's project](https://github.com/adrianhajdin)
 
 
 
